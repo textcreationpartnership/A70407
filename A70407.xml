@@ -1,0 +1,4771 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true, perfect, and exact catalogue of all the comedies, tragedies, tragi-comedies, pastorals, masques and interludes, that were ever yet printed and published, till this present year 1661 all which you may either buy or sell at the several shops of Nath. Brook at the Angel in Cornhil, Francis Kirkman at the John Fletchers Head, on the back-side of St. Clements, Tho. Johnson at the Golden Key in St. Pauls Churchyard, and Henry Marsh at the Princes Arms in Chancery-lane near Fleetstreet. 1661.</title>
+            <author>Kirkman, Francis, 1632-ca. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70407</idno>
+            <idno type="STC">Wing K637</idno>
+            <idno type="STC">ESTC R214113</idno>
+            <idno type="EEBO-CITATION">99826329</idno>
+            <idno type="PROQUEST">99826329</idno>
+            <idno type="VID">30729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70407)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30729)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1801:6; 2127:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true, perfect, and exact catalogue of all the comedies, tragedies, tragi-comedies, pastorals, masques and interludes, that were ever yet printed and published, till this present year 1661 all which you may either buy or sell at the several shops of Nath. Brook at the Angel in Cornhil, Francis Kirkman at the John Fletchers Head, on the back-side of St. Clements, Tho. Johnson at the Golden Key in St. Pauls Churchyard, and Henry Marsh at the Princes Arms in Chancery-lane near Fleetstreet. 1661.</title>
+                  <author>Kirkman, Francis, 1632-ca. 1680.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author's name and place of publication from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Identified as Wing T2853 (number cancelled) on UMI microfilm "Early English books, 1641-1700", reel 1801:6.</note>
+                  <note>Trinity College Library copy has pages cropped with slight loss of print.</note>
+                  <note>Reproductions of the originals in the British Library ("Early English books, 1641-1700", reel 1801), and the Trinity College Library, Cambridge (Reel 2127).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English drama --  17th century --  Bibliography --  Catalogs --  Early works to 1800.</term>
+               <term>English drama --  Early modern and Elizabethan, 1500-1600 --  Bibliography --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Korey Jackson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Korey Jackson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:30729:1" rendition="simple:additions"/>
+            <head>A True, perfect, and exact Catalogue of all the Comedies, Tragedies, Tragi-Comedies, Paſtorals, Maſques and In<g ref="char:EOLhyphen"/>terludes, that were ever yet printed and publiſhed, till this preſent year 1661. all which you may either buy or ſell at the ſeveral ſhops of <hi>Nath. Brook</hi> at the Angel in <hi>Cornhil, Francis Kirkman</hi> at the <hi>John Fletchers Head,</hi> on the Back-ſide of St. <hi>Clements, Tho. Johnſon</hi> at the Golden Key in St. <hi>Pauls</hi> Churchyard, and <hi>Henry Marſh</hi> at the Princes Arms in <hi>Chancery-lane</hi> near <hi>Fleetſtreet.</hi> 1661.</head>
+            <div n="A" type="part">
+               <head>A</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Names of the Authors.</cell>
+                        <cell>Names of the Playes.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>AS You like it.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>Alls well that ends well.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>Anthony &amp; Cle<g ref="char:EOLhyphen"/>opater.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lord Sterling</hi>
+                        </cell>
+                        <cell>Alexandrian Tra<g ref="char:EOLhyphen"/>gedy.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lord Brooks</hi>
+                        </cell>
+                        <cell>Alaham.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Peele</hi>
+                        </cell>
+                        <cell>Alphonſus Emp. of Germany.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Webſter</hi>
+                        </cell>
+                        <cell>Appius and Vir<g ref="char:EOLhyphen"/>ginia.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ja. Shirley</hi>
+                        </cell>
+                        <cell>Arcadia.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Rowly</hi>
+                        </cell>
+                        <cell>Alls loſt by luſt.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rich. Brome</hi>
+                        </cell>
+                        <cell>Antipodes.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir W.D'Avenant</hi>
+                        </cell>
+                        <cell>Albouine.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hen. Glapthorne</hi>
+                        </cell>
+                        <cell>Albertus Wallen<g ref="char:EOLhyphen"/>ſtein.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hen. Glapthorne</hi>
+                        </cell>
+                        <cell>Argalus and Par<g ref="char:EOLhyphen"/>thenia.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Shak. Marmion</hi>
+                        </cell>
+                        <cell>Antiquary.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Randoll</hi>
+                        </cell>
+                        <cell>Ariſtippus.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Tho. Randoll</hi>
+                        </cell>
+                        <cell>Amintas.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Arden of Fever<g ref="char:EOLhyphen"/>ſham.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cyryll Tourneur</hi>
+                        </cell>
+                        <cell>Atheiſts Tragedy</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Jones</hi>
+                        </cell>
+                        <cell>Adraſta.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Nat. Field</hi>
+                        </cell>
+                        <cell>Amends for La<g ref="char:EOLhyphen"/>dies.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Dr. Maine.</hi>
+                        </cell>
+                        <cell>Amorous War.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rob. Cox</hi>
+                        </cell>
+                        <cell>Acteon and Dia<g ref="char:EOLhyphen"/>na.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Torquato Taſſo</hi>
+                        </cell>
+                        <cell>Aminta.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Studly</hi>
+                        </cell>
+                        <cell>Agamemnon.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir John Suckling</hi>
+                        </cell>
+                        <cell>Aglaura.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Leonard Willan</hi>
+                        </cell>
+                        <cell>Aſtrea.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. May</hi>
+                        </cell>
+                        <cell>Antigone.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lod. Carlile</hi>
+                        </cell>
+                        <cell>Arviragus &amp; Phi<g ref="char:EOLhyphen"/>licia, 1ſt. part.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lod. Carlile</hi>
+                        </cell>
+                        <cell>Arviragus &amp; Phi<g ref="char:EOLhyphen"/>licia, 2d. part.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Marſton</hi>
+                        </cell>
+                        <cell>Antonio and Me<g ref="char:EOLhyphen"/>lida.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Marſton.</hi>
+                        </cell>
+                        <cell>Antonio and Me<g ref="char:EOLhyphen"/>lida.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. May</hi>
+                        </cell>
+                        <cell>Agrippina.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>E. W.</hi>
+                        </cell>
+                        <cell>Apollo Shroving</cell>
+                        <cell>C</cell>
+                     </row>
+                     <pb facs="tcp:30729:2"/>
+                     <pb facs="tcp:30729:2" rendition="simple:additions"/>
+                     <pb facs="tcp:30729:3"/>
+                     <pb n="1" facs="tcp:30729:3" rendition="simple:additions"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="2" facs="tcp:30729:4"/>
+                     <row>
+                        <cell rows="2">
+                           <hi>John Lilly</hi>
+                        </cell>
+                        <cell>Alexander and Campaſpe.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Albumazar.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Henry Porter</hi>
+                        </cell>
+                        <cell>Angry women of Abington.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Johnſon</hi>
+                        </cell>
+                        <cell>Alchumiſt.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>T. Lupton.</hi>
+                        </cell>
+                        <cell>All for money.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>All fooles.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Nic. Trotte</hi>
+                        </cell>
+                        <cell>Arthur.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>The Arraignment of Paris.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>La. Pembrook</hi>
+                        </cell>
+                        <cell>Antonius.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Albions Triumph</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>R. C.</hi>
+                        </cell>
+                        <cell>Alphonſus King of Arragon.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>Alarum for Lon<g ref="char:EOLhyphen"/>don.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>R. B.</hi>
+                        </cell>
+                        <cell>Appius and Vir<g ref="char:EOLhyphen"/>ginia.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Andromana.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="4">
+                           <hi>Bernard</hi>
+                        </cell>
+                        <cell>Andrea in Te<g ref="char:EOLhyphen"/>rence.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Adelphus in Ter.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Abrahams Sacri<g ref="char:EOLhyphen"/>fice.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Albion.</cell>
+                        <cell>I</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="B" type="part">
+               <head>B</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>BEggars Buſh.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Bonduca.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Ben. Johnſon</hi>
+                        </cell>
+                        <cell>Bartholmew Fair</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Baſtard.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Bloody Brother.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ja. Shirley</hi>
+                        </cell>
+                        <cell>Bird in a Cage.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ja. Shirley</hi>
+                        </cell>
+                        <cell>Ball.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ja. Shirley</hi>
+                        </cell>
+                        <cell>Brothers.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Brazen Age.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſinger</hi>
+                        </cell>
+                        <cell>Bondman.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſinger</hi>
+                        </cell>
+                        <cell>Baſhfull lover.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>Blind beggar of Alexandria.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>Buſſy D'Amboys.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>Buſſy D'Amboys Revenge.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>Byrons conſpira<g ref="char:EOLhyphen"/>cy.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>Byrons Tragedy.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Ford</hi>
+                        </cell>
+                        <cell>Broaken heart.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Nabs</hi>
+                        </cell>
+                        <cell>Bride.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>T. D.</hi>
+                        </cell>
+                        <cell>Bloudy Banquet.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Sir John Suckling</hi>
+                        </cell>
+                        <cell>Brenoralt.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>The Battel of Al<g ref="char:EOLhyphen"/>cazar.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Day</hi>
+                        </cell>
+                        <cell>The blind Beggar of Bednal green</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Tho. Middleton</hi>
+                        </cell>
+                        <cell>Blutt Mr. Con<g ref="char:EOLhyphen"/>ſtable.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Band Ruff &amp; cuff.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Howard</hi>
+                        </cell>
+                        <cell>Blind Lady.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Sir. W. D'Avenant</hi>
+                        </cell>
+                        <cell>Britannia Trium<g ref="char:EOLhyphen"/>phans.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>Bottom the wea<g ref="char:EOLhyphen"/>ver.</cell>
+                        <cell>I</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="C" type="part">
+               <head>C</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>COmedy of Errors.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>Coriolanus.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>Cymbeline.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Cuſtome of the Country.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <pb n="3" facs="tcp:30729:4"/>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Captain.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Coxcomb.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Chances.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Dr. Mayne</hi>
+                        </cell>
+                        <cell>City Match.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lord Sterling</hi>
+                        </cell>
+                        <cell>Croeſus.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Chriſtmas his Mask.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Cloridia, rites to Cloris.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Midleton &amp; Rowly</hi>
+                        </cell>
+                        <cell>Changling.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Cupids revenge.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Changes, or love in a Maze.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Chabot Admirall of France.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Conſtant Maid.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Coronation.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Cardinal.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Court ſecret.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Chalenge for beauty.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Middleton.</hi>
+                        </cell>
+                        <cell>Chaſt maid in Cheapſide.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Alex. Brome</hi>
+                        </cell>
+                        <cell>Cunning lovers.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rich. Brome</hi>
+                        </cell>
+                        <cell>Court Beggar.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rich. Brome</hi>
+                        </cell>
+                        <cell>City wit.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>Caeſar &amp; Pomney</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir W. D'Avenant</hi>
+                        </cell>
+                        <cell>Cruel Brother.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Goffe</hi>
+                        </cell>
+                        <cell>Couragious Turk</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ant. Brewer</hi>
+                        </cell>
+                        <cell>Country girle.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Dawbourne</hi>
+                        </cell>
+                        <cell>Chriſtian turn'd Turk.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Tho. Nabs</hi>
+                        </cell>
+                        <cell>Covent garden.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Charles the 1ſt.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Tho. Goffe</hi>
+                        </cell>
+                        <cell>Careleſſe Shep<g ref="char:EOLhyphen"/>pardeſſe.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>Cupids Whirli<g ref="char:EOLhyphen"/>gigg.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Kirke</hi>
+                        </cell>
+                        <cell>Champions of Chriſtendome.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Cupid and Death</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>Combat of Caps.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sheppard</hi>
+                        </cell>
+                        <cell>Committe-man curried.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Rob. Mead.</hi>
+                        </cell>
+                        <cell>Combat of Love and Friendſhip.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Coſtly Whore.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Killigrew.</hi>
+                        </cell>
+                        <cell>Claracilla.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. May</hi>
+                        </cell>
+                        <cell>Cleopatra.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sam. Daniel</hi>
+                        </cell>
+                        <cell>Cleopatra.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Carew</hi>
+                        </cell>
+                        <cell>Coelum Britanni<g ref="char:EOLhyphen"/>cum.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ioſ. Rutter</hi>
+                        </cell>
+                        <cell>Cid 1ſt. part.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ioſ. Rutter</hi>
+                        </cell>
+                        <cell>Cid 2d. part.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Earl of Neweaſtle</hi>
+                        </cell>
+                        <cell>Country Captain</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Sands</hi>
+                        </cell>
+                        <cell>Chriſts Paſſion.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>Cromwels Hiſtory</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Swallow</hi>
+                        </cell>
+                        <cell>Cynthia's Re<g ref="char:EOLhyphen"/>venge.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Cynthia's Revels</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Catilines conſpi<g ref="char:EOLhyphen"/>racy.</cell>
+                        <cell>C T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Preſton</hi>
+                        </cell>
+                        <cell>Cambiſes King of Perſia.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Kyd</hi>
+                        </cell>
+                        <cell>Cornelia.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſenger</hi>
+                        </cell>
+                        <cell>The City Madam</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir W.D'Avenant</hi>
+                        </cell>
+                        <cell>The Cruelty of the Spaniards in Peru.</cell>
+                        <cell>C M</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>The Caſe is altred Caeſar's Revenge.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Cyrus King of Perſia.</cell>
+                        <cell>T T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rob. Wilſon</hi>
+                        </cell>
+                        <cell>The Coblers pro<g ref="char:EOLhyphen"/>pheſie.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Nat. Woods</hi>
+                        </cell>
+                        <cell>Conflict of con<g ref="char:EOLhyphen"/>ſcience.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell rows="5">
+                           <hi>Rob. Fraunce</hi>
+                        </cell>
+                        <cell>The Counneſſe of Pembrooks I<g ref="char:EOLhyphen"/>vy-church.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>Crafty Cromwel</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Cromwel's con<g ref="char:EOLhyphen"/>ſpiracy.</cell>
+                        <cell>TC TC</cell>
+                     </row>
+                     <row>
+                        <cell>Cruel Debtor.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Comons conditi<g ref="char:EOLhyphen"/>ons.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Webſter &amp; Rowly.</hi>
+                        </cell>
+                        <cell>Cure for a Cuck<g ref="char:EOLhyphen"/>old.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="D" type="part">
+               <pb n="4" facs="tcp:30729:5"/>
+               <head>D</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>DOuble mar<g ref="char:EOLhyphen"/>riage.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lord Sterling</hi>
+                        </cell>
+                        <cell>Darius.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Divel is an Aſſe.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Dukes Miſtreſſe.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Doubtful heir.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſſinger</hi>
+                        </cell>
+                        <cell>Duke of Millain.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rich. Brome</hi>
+                        </cell>
+                        <cell>Damoyſelle.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Webſter</hi>
+                        </cell>
+                        <cell>Divels Law caſe.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Webſter</hi>
+                        </cell>
+                        <cell>Dutcheſſe of Mal<g ref="char:EOLhyphen"/>fy.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Chr. Marloe</hi>
+                        </cell>
+                        <cell>Doctor Fauſtus.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Ingelend</hi>
+                        </cell>
+                        <cell>Diſobedient child.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Peele</hi>
+                        </cell>
+                        <cell>David and Bath<g ref="char:EOLhyphen"/>ſabe.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lewis Machin</hi>
+                        </cell>
+                        <cell>Dumb Knight.</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Dutches of Suff.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Tateham</hi>
+                        </cell>
+                        <cell>Diſtracted State.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Iohn Marſton</hi>
+                        </cell>
+                        <cell>Dutch Courtezan</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Darius Story.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Barnabe Barnes</hi>
+                        </cell>
+                        <cell>The Devils char<g ref="char:EOLhyphen"/>ter.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Doctor Dodipol.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir W.D'Avenant</hi>
+                        </cell>
+                        <cell>Drakes Hiſtory 1ſt. part.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Marloe and Naſh</hi>
+                        </cell>
+                        <cell>Dido Queen of Carthage.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Damon and Py<g ref="char:EOLhyphen"/>thias.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lod. Carlile</hi>
+                        </cell>
+                        <cell>The Deſerving Favourite.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell rows="4">
+                           <hi>Rob. Baron.</hi>
+                        </cell>
+                        <cell>Deorum Dona.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>Dick Scorner.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Deſtruction of Je<g ref="char:EOLhyphen"/>ruſalem.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Don Quixot, or the Knight of the ill-favoured coun<g ref="char:EOLhyphen"/>tenance.</cell>
+                        <cell>C</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="E" type="part">
+               <head>E</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>ELder Bro<g ref="char:EOLhyphen"/>ther.</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirly</hi>
+                        </cell>
+                        <cell>Example.</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Engliſh Traveller</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Edward the 4th. 1ſt. part.</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Edward the 4th. 2d. part.</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſinger</hi>
+                        </cell>
+                        <cell>Emperour of the Eaſt.</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Chr. Marloe</hi>
+                        </cell>
+                        <cell>Edward the 2d.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. Nabs</hi>
+                        </cell>
+                        <cell>Entertainment on the Princes Birth day.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Chapman, Iohnſon</hi>
+                        </cell>
+                        <cell>Eaſtward hoe.</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Peele</hi>
+                        </cell>
+                        <cell>Edward the 1ſt.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Elizabeths trou<g ref="char:EOLhyphen"/>bles, 1ſt. part.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Elizabeths trou<g ref="char:EOLhyphen"/>ble, 2d. part.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>T. R.</hi>
+                        </cell>
+                        <cell>Extravrgant Shepheard.</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Lilly</hi>
+                        </cell>
+                        <cell>Endimion.</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Every man in his humour.</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Every man out of his hu<g ref="char:EOLhyphen"/>mour.</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <pb n="5" facs="tcp:30729:5"/>
+                     <row>
+                        <cell rows="2">
+                           <hi>C. W.</hi>
+                        </cell>
+                        <cell>Electra of Sophi<g ref="char:EOLhyphen"/>cles.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Edward the 3d.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Rich. Brome</hi>
+                        </cell>
+                        <cell>The Engliſh Moor or the Mock<g ref="char:EOLhyphen"/>marriage.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Every Woman in her humour.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Interlude of Youth.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Sir Will. Lower</hi>
+                        </cell>
+                        <cell>The Enchanted Lovers.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>Enough's as good as a Feaſt.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Bernard</hi>
+                        </cell>
+                        <cell>Eunuchus in Te<g ref="char:EOLhyphen"/>rence.</cell>
+                        <cell>C</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="F" type="part">
+               <head>F</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>FOur Playes in one.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher.</hi>
+                        </cell>
+                        <cell>Faithfull Shep<g ref="char:EOLhyphen"/>pardeſſe.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Fair Maid of the Inne.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Fair Maid of the Weſt, 1ſt. part.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Fair Maid of the Weſt, 2d. part.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Fortune by land and Sea.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Four London Prentices.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſinger</hi>
+                        </cell>
+                        <cell>Fatal dowry.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Midleton &amp; Rowly</hi>
+                        </cell>
+                        <cell>Fair Quarrel.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Ford</hi>
+                        </cell>
+                        <cell>Fancies.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Shak. Marmion</hi>
+                        </cell>
+                        <cell>Fine companion.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Fleire.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Fair Maid of the Exchange.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Strode</hi>
+                        </cell>
+                        <cell>Floating Iſland.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Robert Green</hi>
+                        </cell>
+                        <cell>Frier Bacon.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Fair Em.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Iohn Marſton</hi>
+                        </cell>
+                        <cell>Fawne.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Faithful Shep<g ref="char:EOLhyphen"/>heard.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Falſe one.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Fatal Union.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Fortunate Iſles.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>Flowers.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Fox.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Iordan</hi>
+                        </cell>
+                        <cell>Fancies Feſti<g ref="char:EOLhyphen"/>vals.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lod. Carlile</hi>
+                        </cell>
+                        <cell>The Fool would be a favourite, or the diſcreet Lover.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Gerbier D'ouvilly</hi>
+                        </cell>
+                        <cell>The Falſe Favou<g ref="char:EOLhyphen"/>rite diſgrac'd.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Hemings</hi>
+                        </cell>
+                        <cell>The Fatal con<g ref="char:EOLhyphen"/>tract.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Norton</hi>
+                        </cell>
+                        <cell>Ferex and Porex.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Middleton</hi>
+                        </cell>
+                        <cell>Family of Love.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Tho. Decker</hi>
+                        </cell>
+                        <cell>Fortunatus.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Freewill.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Gilb. Swinhoe</hi>
+                        </cell>
+                        <cell>The Fair Irene.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="4">
+                           <hi>Rich. Fanſhaw</hi>
+                        </cell>
+                        <cell>The Faithfull Shepheard.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>Fair Maid of Bri<g ref="char:EOLhyphen"/>ſtow.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Fidele and For<g ref="char:EOLhyphen"/>tunata.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Fulgius &amp; Lucrel.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="G" type="part">
+               <pb n="6" facs="tcp:30729:6"/>
+               <head>G</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>GEntlemen of Verona.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirly</hi>
+                        </cell>
+                        <cell>Gameſter.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirly</hi>
+                        </cell>
+                        <cell>Gentleman of Ve<g ref="char:EOLhyphen"/>nice.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Gratefull Ser<g ref="char:EOLhyphen"/>vant.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Golden Age.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſinger</hi>
+                        </cell>
+                        <cell>Great Duke of Florence.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſinger</hi>
+                        </cell>
+                        <cell>Guardian.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Middleton</hi>
+                        </cell>
+                        <cell>Game at cheſſe.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="4">
+                           <hi>Iohn Cook</hi>
+                        </cell>
+                        <cell>Greens tu quo<g ref="char:EOLhyphen"/>que.</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Ghoſt.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Gentle Craft.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Gyles Gooſe cap.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Abr. Cowly</hi>
+                        </cell>
+                        <cell>Guardian.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir Iohn Suckling</hi>
+                        </cell>
+                        <cell>Goblins.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Lilly</hi>
+                        </cell>
+                        <cell>Gallathea.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. S. Mr. <hi>of Art</hi>
+                        </cell>
+                        <cell>Gammer Gur<g ref="char:EOLhyphen"/>tons needle.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Gaſcoign</hi>
+                        </cell>
+                        <cell>The Glaſſe of Go<g ref="char:EOLhyphen"/>vernment.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>The Gentleman Uſher.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Rob. Baron</hi>
+                        </cell>
+                        <cell>Gripus &amp; Hegio.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>Guiſe.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="H" type="part">
+               <head>H</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>HEnry the 4th 1ſt. part.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Henry the 4th. 2d. part.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Henry the 5th.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Henry the 6th. 1ſt. part.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Henry the 6th. 2d. part.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Henry the 6th. 3d. part.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Henry the 8th.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Hamlet.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Humorous Lieu<g ref="char:EOLhyphen"/>tenant.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Honeſt mans for<g ref="char:EOLhyphen"/>tune.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Honor of Wales.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Hide park.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Humorous Cour<g ref="char:EOLhyphen"/>tier.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>Humorous dayes mirth.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Decker</hi>
+                        </cell>
+                        <cell>Honeſt Whore, 1ſt. part.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Decker</hi>
+                        </cell>
+                        <cell>Honeſt Whore, 2d. part.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hen. Glapthorn</hi>
+                        </cell>
+                        <cell>Hollander.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Shak. Marmion</hi>
+                        </cell>
+                        <cell>Hollands Lea<g ref="char:EOLhyphen"/>guer.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="4">
+                           <hi>Tho. Nabs</hi>
+                        </cell>
+                        <cell>Hannibal and Sci<g ref="char:EOLhyphen"/>pio.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Hieronimo 2. part</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Hoffman.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <pb n="7" facs="tcp:30729:6"/>
+                     <row>
+                        <cell>Hiſtriomaſtix.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Markham &amp; Sam<g ref="char:EOLhyphen"/>pſon</hi>
+                        </cell>
+                        <cell>Herod and Anti<g ref="char:EOLhyphen"/>pater.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>How to chooſe a good wife from a bad.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir W. Lower</hi>
+                        </cell>
+                        <cell>Horatius.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Randoll</hi>
+                        </cell>
+                        <cell>Hey for honeſty, down with kna<g ref="char:EOLhyphen"/>very.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. May</hi>
+                        </cell>
+                        <cell>Heire.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iaſper Heywood</hi>
+                        </cell>
+                        <cell>Hercules furiens.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Studly</hi>
+                        </cell>
+                        <cell>Hyppolitus.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Studly</hi>
+                        </cell>
+                        <cell>Hercules Oetus.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Edmond Preſtwich</hi>
+                        </cell>
+                        <cell>Hyppolitus.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Hectors or falſe chalenge.</cell>
+                        <cell>T C</cell>
+                     </row>
+                     <row>
+                        <cell>Henry the 5th. with the bat<g ref="char:EOLhyphen"/>tel of Agen-court.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>S. S.</cell>
+                        <cell>The Honeſt Law<g ref="char:EOLhyphen"/>yer.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ioh. Day</hi>
+                        </cell>
+                        <cell>Humour out of breath.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>W. Smith</hi>
+                        </cell>
+                        <cell>The Hector of Germany.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>Hieronymo 1ſt. part.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rob. Taylor</hi>
+                        </cell>
+                        <cell>Hog hath loſt his pearl.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sam. Daniel</hi>
+                        </cell>
+                        <cell>Hymens Try<g ref="char:EOLhyphen"/>umph.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Bernard</hi>
+                        </cell>
+                        <cell>Heauton. in Ter.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ja. Shirley</hi>
+                        </cell>
+                        <cell>Honoria &amp; Mamon</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="I" type="part">
+               <head>I</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>JOhn King of England.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Julius Caeſar.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Iſland Princeſſe.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lord Sterling</hi>
+                        </cell>
+                        <cell>Julius Caeſar.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Coſmo Manuch.</hi>
+                        </cell>
+                        <cell>Juſt General.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Impoſture.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Iron age Firſt part.</cell>
+                        <cell>TC H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Iron age, Second part.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rich. Brome</hi>
+                        </cell>
+                        <cell>Jovial crew.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir W.D'Avenant</hi>
+                        </cell>
+                        <cell>Juſt Italian.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Chr. Marloe</hi>
+                        </cell>
+                        <cell>Jew of Malta.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Randoll</hi>
+                        </cell>
+                        <cell>Jealous Lovers.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sr. Ralph Freeman</hi>
+                        </cell>
+                        <cell>Imperiale.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>John Marſton</hi>
+                        </cell>
+                        <cell>Inſatiate Coun<g ref="char:EOLhyphen"/>teſſe.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Jack Drums en<g ref="char:EOLhyphen"/>tertainment.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Jo. Day</hi>
+                        </cell>
+                        <cell>Iſle of Guls.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Gaſcoign</hi>
+                        </cell>
+                        <cell>Jocaſta.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rob. Davenport</hi>
+                        </cell>
+                        <cell>John and Matilda</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Fra. Goldſmith</hi>
+                        </cell>
+                        <cell>Joſeph.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Jacob and Eſau.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Deckar</hi>
+                        </cell>
+                        <cell>If this be'nt a good play, the Divel's in't.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Tho. Middleton</hi>
+                        </cell>
+                        <cell>The Inner Tem<g ref="char:EOLhyphen"/>ple Mask.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>Jack Strawes life and death.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>James the 4th.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>John K. of Eng<g ref="char:EOLhyphen"/>land 1ſt. part.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell rows="5">
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>John K. of Eng<g ref="char:EOLhyphen"/>land 2d. part.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>Ioſephs afflictions</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Jack Jugler.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Impatient pover<g ref="char:EOLhyphen"/>ty.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>John Evangeliſt.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="K" type="part">
+               <pb n="8" facs="tcp:30729:7"/>
+               <head>K</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>KIng and no King</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Knight of the burning peſtle.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Knight of Mal<g ref="char:EOLhyphen"/>ta.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Johnſon</hi>
+                        </cell>
+                        <cell>Kings Entertain<g ref="char:EOLhyphen"/>ment at Wel<g ref="char:EOLhyphen"/>beck.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell rows="5">
+                           <hi>J. D.</hi>
+                        </cell>
+                        <cell>Knave in grain.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>King and Queens entertainment at Richmond.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>Knight of the Golden ſhield.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>Knack to know an honeſt man.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Knack to know a Knave.</cell>
+                        <cell>C</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="L" type="part">
+               <head>L</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>LOves Labour loſt.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Little French Lawyer.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Loyal Subject.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Lawes of Candy.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Lovers progreſs.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Loves Cure, or the Martial maid</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Loves pilgrim<g ref="char:EOLhyphen"/>age.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Loſt Lady.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Johnſon</hi>
+                        </cell>
+                        <cell>Loves triumph.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Johnſon</hi>
+                        </cell>
+                        <cell>Loves welcome.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Peaps</hi>
+                        </cell>
+                        <cell>Love in its exta<g ref="char:EOLhyphen"/>ſie.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Coſino Manuch</hi>
+                        </cell>
+                        <cell>Loyal lovers.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ja. Shirley</hi>
+                        </cell>
+                        <cell>Loves cruelty.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ja. Shirley</hi>
+                        </cell>
+                        <cell>Lady of plea<g ref="char:EOLhyphen"/>ſure.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Loves Miſtreſſe.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir W.D'Avenant</hi>
+                        </cell>
+                        <cell>Love and honour</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Ford</hi>
+                        </cell>
+                        <cell>Lovers melan<g ref="char:EOLhyphen"/>choly.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Ford</hi>
+                        </cell>
+                        <cell>Loves ſacrifice.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Ford</hi>
+                        </cell>
+                        <cell>Ladies triall.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hen. Glapthorne</hi>
+                        </cell>
+                        <cell>Ladies priviledge</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="5">
+                           <hi>Ant. Brewer</hi>
+                        </cell>
+                        <cell>Loveſick King.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>Landagartha.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>Loves Loadſtone.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Lingua.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Loves dominion.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Abra. Cowly</hi>
+                        </cell>
+                        <cell>Loves Riddle.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rob. Gomerſall</hi>
+                        </cell>
+                        <cell>Lod. Sforza.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Heywood &amp; Brome</hi>
+                        </cell>
+                        <cell>Lancaſter Witch<g ref="char:EOLhyphen"/>es.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>Leir &amp; his three daughters.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>W. <hi>Cartwright</hi>
+                        </cell>
+                        <cell>Lady Errant.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>R. W.</cell>
+                        <cell>Three Lords and Ladies of Lon<g ref="char:EOLhyphen"/>don.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <pb n="9" facs="tcp:30729:7"/>
+                     <row>
+                        <cell>
+                           <hi>Chr. Marloe</hi>
+                        </cell>
+                        <cell>Luſts Dominion, or the Laſcivi<g ref="char:EOLhyphen"/>ous Queen.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>
+                              <g ref="char:V">Ʋ</g>lpian Fulwel</hi>
+                        </cell>
+                        <cell>Like will to like, quoth the Di<g ref="char:EOLhyphen"/>vel.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>R. Wever.</hi>
+                        </cell>
+                        <cell>Luſty Juventus.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>R. W.</hi>
+                        </cell>
+                        <cell>The three La<g ref="char:EOLhyphen"/>dies of Lon<g ref="char:EOLhyphen"/>don.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Tatham</hi>
+                        </cell>
+                        <cell>Love crowns the end.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>The London pro<g ref="char:EOLhyphen"/>digal.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ioh. Day</hi>
+                        </cell>
+                        <cell>Law tricks, or who would have thought it?</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>W. S.</hi>
+                        </cell>
+                        <cell>Locrine Eldeſt ſon to K. Bru<g ref="char:EOLhyphen"/>tus.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>VV. Chamberlaine</hi>
+                        </cell>
+                        <cell>Loves victory.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho Meriton</hi>
+                        </cell>
+                        <cell>Love and war.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Lilly</hi>
+                        </cell>
+                        <cell>Loves Metamor<g ref="char:EOLhyphen"/>phoſis.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="4">
+                           <hi>Rich. Brome</hi>
+                        </cell>
+                        <cell>The Love-ſick Court, or the Ambitious po<g ref="char:EOLhyphen"/>litick.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>The London Chaunticleers.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Look about you, or run Red caps.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Leir and his three daugh<g ref="char:EOLhyphen"/>ters.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell rows="5">
+                           <hi>Tho. Lodge and Rob Green.</hi>
+                        </cell>
+                        <cell>A Looking-glaſſe for London, &amp;c.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>Liberality and Prodigality.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Lady Almony.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Luminalia.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>Lawes of Na<g ref="char:EOLhyphen"/>ture.</cell>
+                        <cell>C</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="M" type="part">
+               <head>M</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>MErry wives of Wind<g ref="char:EOLhyphen"/>ſor.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Meaſure for mea<g ref="char:EOLhyphen"/>ſure.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Much adoe about nothing.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Midſomer nights dream.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Merchant of Ve<g ref="char:EOLhyphen"/>nice.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Mackbeth.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Mad Lover.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Maid in the mill.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Mask of Grayes Inne Gent.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Magnetick Lady.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Mask at my Lord Hayes houſe.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Metamorphoſed Gip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ies.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Johnſon</hi>
+                        </cell>
+                        <cell>Mask of Augurs.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Mask of Owles.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Mortimers fall.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <pb n="10" facs="tcp:30729:8"/>
+                     <row>
+                        <cell rows="2">
+                           <hi>Lord Brooks</hi>
+                        </cell>
+                        <cell>Muſtapha.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Marcus Tullius Cicero.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Barten H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>lliday</hi>
+                        </cell>
+                        <cell>Marriage of the Arts.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Monſieur Tho<g ref="char:EOLhyphen"/>mas.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Maids Tragedy.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Maids Revenge.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hen. Shirley</hi>
+                        </cell>
+                        <cell>Martyr'd ſoul<g ref="char:EOLhyphen"/>dier.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Maidenhead well loſt.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſinger</hi>
+                        </cell>
+                        <cell>Maid of honour.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Middleton.</hi>
+                        </cell>
+                        <cell>Mad world my maſters.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>VVill. Rowly</hi>
+                        </cell>
+                        <cell>Match at mid<g ref="char:EOLhyphen"/>night.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Middleton</hi>
+                        </cell>
+                        <cell>Michaelmas Term</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rich. Brome</hi>
+                        </cell>
+                        <cell>Mad couple well match'd.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>Monſieur D'O<g ref="char:EOLhyphen"/>live.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Decker</hi>
+                        </cell>
+                        <cell>Match me in Lon<g ref="char:EOLhyphen"/>don.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Merry Divel of Edmonton.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Mucidorus.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Nabs</hi>
+                        </cell>
+                        <cell>Microcoſmus.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Rand<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ll</hi>
+                        </cell>
+                        <cell>Muſes Looking-glaſſe.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>John Maſon</hi>
+                        </cell>
+                        <cell>Muleaſſes the Turk.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Mercurius Bri<g ref="char:EOLhyphen"/>tannicus.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. VVilkins</hi>
+                        </cell>
+                        <cell>Miſeries of en<g ref="char:EOLhyphen"/>forced marri<g ref="char:EOLhyphen"/>age.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Studley</hi>
+                        </cell>
+                        <cell>Medea.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Nat. Richards</hi>
+                        </cell>
+                        <cell>Meſſalina.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Lilly</hi>
+                        </cell>
+                        <cell>Mydas.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Lilly</hi>
+                        </cell>
+                        <cell>Mother Bomby.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Sir VV. Lower</hi>
+                        </cell>
+                        <cell>Martyr.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Maſſanello.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>May day.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Marſton</hi>
+                        </cell>
+                        <cell>Malecontent.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Rob. Baron.</hi>
+                        </cell>
+                        <cell>Myrza.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>The Marriage of Wit and Sci<g ref="char:EOLhyphen"/>ence.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Middleton</hi>
+                        </cell>
+                        <cell>More diſſemblers than women.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Chr. Marloe</hi>
+                        </cell>
+                        <cell>The Maſſacre at Paris.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Edw. Sherburn</hi>
+                        </cell>
+                        <cell>Medea.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>VV. VV.</hi>
+                        </cell>
+                        <cell>Menechmus.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>The Mask of the Middle Tem<g ref="char:EOLhyphen"/>ple and Lin<g ref="char:EOLhyphen"/>colns Inne.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>La. Eliz. Carew</hi>
+                        </cell>
+                        <cell>Mariam.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Lodge</hi>
+                        </cell>
+                        <cell>Marius and Scilla.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Lilly</hi>
+                        </cell>
+                        <cell>Maids Metamor<g ref="char:EOLhyphen"/>phoſis.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>J. <hi>C.</hi>
+                        </cell>
+                        <cell>The Merry milk<g ref="char:EOLhyphen"/>maids.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rob. Armin</hi>
+                        </cell>
+                        <cell>The Maids of Moorclack.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>J.</hi> S.</cell>
+                        <cell>Maſquarde du Ci'el.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rich. Fleckno</hi>
+                        </cell>
+                        <cell>The Marriage of Oceanus and Britannia.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Tho. Middleton</hi>
+                        </cell>
+                        <cell>The Mayor of Quinborough.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Manhood &amp; Wiſ<g ref="char:EOLhyphen"/>dome.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Mary Magdalens repentance.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Milton</hi>
+                        </cell>
+                        <cell>Miltous Mask.</cell>
+                        <cell>M</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="N" type="part">
+               <pb n="11" facs="tcp:30729:8"/>
+               <head>N</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>NOble Gen<g ref="char:EOLhyphen"/>tleman.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Nice Vallor, or the Paſſionate mad man.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Newes from the new world in the moon.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Johnſon</hi>
+                        </cell>
+                        <cell>Neptunes tri<g ref="char:EOLhyphen"/>umph.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Night walker, or Little thief.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſinger</hi>
+                        </cell>
+                        <cell>New way to pay old debts.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sam. Rowly</hi>
+                        </cell>
+                        <cell>Noble Spaniſh ſouldier.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rich. Brome</hi>
+                        </cell>
+                        <cell>Northerne laſſe.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Rich. Brome</hi>
+                        </cell>
+                        <cell>Novella.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Nero newly writ<g ref="char:EOLhyphen"/>ten.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Deckar &amp; Webſter</hi>
+                        </cell>
+                        <cell>Northward hoe.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Noble ſtranger.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>New trick to cheat the divel.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="4">
+                           <hi>Ben. Johnſon</hi>
+                        </cell>
+                        <cell>New Inne.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Nero's life and death.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>New Cuſtome.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>No body and ſome body.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Rich. Brome</hi>
+                        </cell>
+                        <cell>The New Acade<g ref="char:EOLhyphen"/>my, or the New Exchange.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Nice wanton.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="O" type="part">
+               <head>O</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>OThello Moor of Venice.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ja. Shirley</hi>
+                        </cell>
+                        <cell>Opportunity.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Midleton &amp; Rowly</hi>
+                        </cell>
+                        <cell>Old law.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Goffe</hi>
+                        </cell>
+                        <cell>Oreſtes.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>Old Caſtles life and death.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Alex. Nevile</hi>
+                        </cell>
+                        <cell>OEdipus.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>T. Nuce</hi>
+                        </cell>
+                        <cell>Octavia.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>VV. Cartwright</hi>
+                        </cell>
+                        <cell>Ordinary.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir Aten Cockaine</hi>
+                        </cell>
+                        <cell>Obſtinate Lady.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lod. Carlile</hi>
+                        </cell>
+                        <cell>Oſmond the great Turk, or the noble ſervant.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>L. VV.</hi>
+                        </cell>
+                        <cell>Orgula, or the Fatal Errour.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Tho. May</hi>
+                        </cell>
+                        <cell>The old Couple.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Orlando Furioſo</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>Old wives tale.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="P" type="part">
+               <head>P</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>PRopheteſſe.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Pilgrim.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hen. Killigrow.</hi>
+                        </cell>
+                        <cell>Pallantus &amp; Eu<g ref="char:EOLhyphen"/>dora.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Johnſon</hi>
+                        </cell>
+                        <cell>Pleaſure recon<g ref="char:EOLhyphen"/>cil'd to virtue.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <pb n="12" facs="tcp:30729:9"/>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Pans Anniverſa<g ref="char:EOLhyphen"/>ry.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Philaſter.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. Shirley</hi>
+                        </cell>
+                        <cell>Polititian.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. Shirley</hi>
+                        </cell>
+                        <cell>Patrick for Ire<g ref="char:EOLhyphen"/>land.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſinger</hi>
+                        </cell>
+                        <cell>Picture.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir W.D'Avenant</hi>
+                        </cell>
+                        <cell>Platonick Lo<g ref="char:EOLhyphen"/>vers.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Ford</hi>
+                        </cell>
+                        <cell>Perkin War<g ref="char:EOLhyphen"/>beck.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Ford</hi>
+                        </cell>
+                        <cell>Pitty ſhee's a Whore.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>icles Prince of Tyre.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rob. Dawbourne</hi>
+                        </cell>
+                        <cell>Poor mans com<g ref="char:EOLhyphen"/>fort.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Middleton</hi>
+                        </cell>
+                        <cell>Phaenix.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lod. Carlile</hi>
+                        </cell>
+                        <cell>Paſhonate Lovers 1ſt part.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lod. Carlile</hi>
+                        </cell>
+                        <cell>Paſſionate Lovers 2d part.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Lower</hi>
+                        </cell>
+                        <cell>Phaenix in her Flames.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Gaſcoign</hi>
+                        </cell>
+                        <cell>Pleaſure at Ken<g ref="char:EOLhyphen"/>elworth Caſtle.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Killigrew</hi>
+                        </cell>
+                        <cell>Priſoners.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sam. Daniel</hi>
+                        </cell>
+                        <cell>Phylotas.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>James Howel</hi>
+                        </cell>
+                        <cell>Peleus &amp; Thetis.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Johnſon</hi>
+                        </cell>
+                        <cell>Poetaſter.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>J. S.</cell>
+                        <cell>Phyllis of Scy<g ref="char:EOLhyphen"/>ros.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Jo. Day</hi>
+                        </cell>
+                        <cell>The Parliament of Bees.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>The Pedlars pro<g ref="char:EOLhyphen"/>pheſie.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Heywood</hi>
+                        </cell>
+                        <cell>A Play of love.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Heywood</hi>
+                        </cell>
+                        <cell>The Play of the Weather.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Heywood</hi>
+                        </cell>
+                        <cell>A Play between Johan Johan the husband, Tyb his wife, &amp;c.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ioh. Heywood</hi>
+                        </cell>
+                        <cell>A Play between the Pardoner and the Frier, the Curate and Neighbour Prat.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Joh. Heywood</hi>
+                        </cell>
+                        <cell>A Play of Gen<g ref="char:EOLhyphen"/>tleneſſe and Nobility &amp;c. the 1ſt part.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Heywood</hi>
+                        </cell>
+                        <cell>A Play of Gen<g ref="char:EOLhyphen"/>tleneſſe and Nobility, &amp;c. the 2d part.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>The Puritan wi<g ref="char:EOLhyphen"/>dow.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>The Pinner of Wakefield.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Philotas Scotch.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="8">H. H. B.</cell>
+                        <cell>Plutus.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Patient Griſſel.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Patient Griſſel old.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Promiſes of God mani<g ref="char:EOLhyphen"/>feſted.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Promus and Caſſandra, 1ſt part.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Promus and Caſ<g ref="char:EOLhyphen"/>ſandra 2d. part.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Phormio in Te<g ref="char:EOLhyphen"/>rence.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Presbyterian Laſh.</cell>
+                        <cell>TC</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="Q" type="part">
+               <pb n="13" facs="tcp:30729:9"/>
+               <head>Q</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>QUeen of Co<g ref="char:EOLhyphen"/>rinth.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Will. Habington.</hi>
+                        </cell>
+                        <cell>Queen of Arra<g ref="char:EOLhyphen"/>gon.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>Queen, or the ex<g ref="char:EOLhyphen"/>cellency of her ſex.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sam. Daniel</hi>
+                        </cell>
+                        <cell>Queenes Arca<g ref="char:EOLhyphen"/>dia.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rich. B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>eme</hi>
+                        </cell>
+                        <cell>Queens Exchange</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rich. Breme</hi>
+                        </cell>
+                        <cell>The Queen and Concubine.</cell>
+                        <cell>C</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="R" type="part">
+               <head>R</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>RIchard the ſecond.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>Richard the 3d.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpeare</hi>
+                        </cell>
+                        <cell>Romeo and Ju<g ref="char:EOLhyphen"/>let.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>Revenge for ho<g ref="char:EOLhyphen"/>nour.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Rule a wife, and have a wife.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Royal maſter.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Royal King, and Loyal ſubject.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Rape of Lu<g ref="char:EOLhyphen"/>creece.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſinger</hi>
+                        </cell>
+                        <cell>Roman Actor.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſinger</hi>
+                        </cell>
+                        <cell>Renegado.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Goffe</hi>
+                        </cell>
+                        <cell>Raging Turk.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Rawlins</hi>
+                        </cell>
+                        <cell>Rebellion.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cyrill Tourneur</hi>
+                        </cell>
+                        <cell>Revengers Tra<g ref="char:EOLhyphen"/>gedy.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. Barrey</hi>
+                        </cell>
+                        <cell>Ram Ally, or Me<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>it<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>cks.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Ret<gap reason="illegible" resp="#UOM" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> from Parnaſſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>et. W<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d</hi>
+                        </cell>
+                        <cell>Riva <gap reason="illegible" resp="#UOM" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>ds.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ra. Knevet</hi>
+                        </cell>
+                        <cell>R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>od<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n and Iris.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">W. <hi>Cartwright</hi>
+                        </cell>
+                        <cell>Royal ſlave.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>Robert Earl of Huntingd<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n's down-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>Ro. Earl of Hun<g ref="char:EOLhyphen"/>tington's death.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>John Talcham</hi>
+                        </cell>
+                        <cell>The Rump, or a Mirror, &amp;c.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Reward for vir<g ref="char:EOLhyphen"/>tue.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Tho Middleton</hi>
+                        </cell>
+                        <cell>R<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ing Gi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>le.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Robin Ho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> pa<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>al May-games.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Robin conſcience</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="S" type="part">
+               <head>S</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>SPaniſh Cu<g ref="char:EOLhyphen"/>rate.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Sea voyage.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Johnſon</hi>
+                        </cell>
+                        <cell>Staple of Newes.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Denham</hi>
+                        </cell>
+                        <cell>Sophy.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Johnſon</hi>
+                        </cell>
+                        <cell>Sad ſheppard.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <pb n="14" facs="tcp:30729:10"/>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Scornful Lady.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>School of com<g ref="char:EOLhyphen"/>plements.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Siſters.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Silver age.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rich. Brome</hi>
+                        </cell>
+                        <cell>Sparagus Gar<g ref="char:EOLhyphen"/>den.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Goffe</hi>
+                        </cell>
+                        <cell>Selimus.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Tho. Nabs</hi>
+                        </cell>
+                        <cell>Springs glory.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>Swetnam the wo<g ref="char:EOLhyphen"/>man-hater ar<g ref="char:EOLhyphen"/>raigned.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Sophiſter.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Rob. Chamberlain</hi>
+                        </cell>
+                        <cell>Swaggering dam<g ref="char:EOLhyphen"/>ſel.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Sicelides.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>I. G.</hi>
+                        </cell>
+                        <cell>Strange Diſcove<g ref="char:EOLhyphen"/>ry.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>Suns darling.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Tatcham</hi>
+                        </cell>
+                        <cell>Scots Figaries.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Gaſcoign</hi>
+                        </cell>
+                        <cell>Suppoſes.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ioſ. Rutter</hi>
+                        </cell>
+                        <cell>Sheppards Holy day.</cell>
+                        <cell>P</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Marſton.</hi>
+                        </cell>
+                        <cell>Sophonisba.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Lilly</hi>
+                        </cell>
+                        <cell>Sapho and Phao.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Rowly</hi>
+                        </cell>
+                        <cell>Shoomaker a Gentleman.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Sejanus.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Silent woman.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>W. <hi>Cartwright</hi>
+                        </cell>
+                        <cell>Siedge, or loves convert.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir W.D'Avenant</hi>
+                        </cell>
+                        <cell>The Siege of Rhodes.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Midleton &amp; Rowly</hi>
+                        </cell>
+                        <cell>The Spaniſh Gip<g ref="char:EOLhyphen"/>ſies.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Solimon &amp; Per<g ref="char:EOLhyphen"/>ſeda.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Stukelyes life and death.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Tho. Naſh</hi>
+                        </cell>
+                        <cell>Summers laſt<g ref="char:EOLhyphen"/>will and teſta<g ref="char:EOLhyphen"/>ment.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>See me and ſee me not.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>VValt. Mountague</hi>
+                        </cell>
+                        <cell>The Sheppards Paradiſe.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="4">
+                           <hi>Sir John Suckling</hi>
+                        </cell>
+                        <cell>The ſad one.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>The Spaniſh Bawd.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>Suſanna's teares.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Salmacida ſpolia.</cell>
+                        <cell>I</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="T" type="part">
+               <head>T</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>TEmpeſt.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Twelf night or what you will.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Taming of the ſhrew.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Troylus &amp; Cre<g ref="char:EOLhyphen"/>ſida.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Titus Androni<g ref="char:EOLhyphen"/>cus.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Tymon of Athens</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Tale of a tub.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Iohnſon</hi>
+                        </cell>
+                        <cell>Time vindicated to himſelf and to his honors.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Thierry &amp; The<g ref="char:EOLhyphen"/>odoret.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Two noble kinſ<g ref="char:EOLhyphen"/>men.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ja. Shirley</hi>
+                        </cell>
+                        <cell>Traytor.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Triumph of peace.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <pb n="15" facs="tcp:30729:10"/>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirley</hi>
+                        </cell>
+                        <cell>Triumph of beauty.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Midleton</hi>
+                        </cell>
+                        <cell>Trick to catch the old one.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Nabs</hi>
+                        </cell>
+                        <cell>Totenham Court</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>W. Rider</hi>
+                        </cell>
+                        <cell>Twins.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>True Trojans.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Jaſper Heywood</hi>
+                        </cell>
+                        <cell>Thyeſtes.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Jaſper Heywood</hi>
+                        </cell>
+                        <cell>Troas.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Tho. Newton</hi>
+                        </cell>
+                        <cell>Thebais.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Tamburlaine firſt part.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Tamburlaine 2d part.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Wapull</hi>
+                        </cell>
+                        <cell>The tide tarrieth no man.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>W. Wager</hi>
+                        </cell>
+                        <cell>The longer thou liv'ſt, the more fool thou art.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Tom Tyler and his Wife.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>The trial of chi<g ref="char:EOLhyphen"/>valry.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>W. D'Avenant</hi>
+                        </cell>
+                        <cell>The temple of love.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Day W. Rowly</hi> and <hi>Wilkins</hi>
+                        </cell>
+                        <cell>The travailes of the three Eng<g ref="char:EOLhyphen"/>liſh brothers, Shirleys.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Robert Wilmot</hi>
+                        </cell>
+                        <cell>Tancred and Giſ<g ref="char:EOLhyphen"/>mond.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Robert Yarington</hi>
+                        </cell>
+                        <cell>Two tragedies in one.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>Two wiſemen &amp; all the reſt fools.</cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Sir Aſton Cokain</hi>
+                        </cell>
+                        <cell>Trappolin ſup<g ref="char:EOLhyphen"/>pos'd a Prince.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>Tyrannical Go<g ref="char:EOLhyphen"/>vernment.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Therſites.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>G. Chapman</hi>
+                        </cell>
+                        <cell>Temple.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>G. Pordidge</hi>
+                        </cell>
+                        <cell>Troades.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Trial of treaſure.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Webſter &amp; Rowly</hi>
+                        </cell>
+                        <cell>Thracian wonder</cell>
+                        <cell>H</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="V" type="part">
+               <head>V</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>VAlentinian.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ben. Johnſon</hi>
+                        </cell>
+                        <cell>Viſion of De<g ref="char:EOLhyphen"/>light.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir W.D'Avenant</hi>
+                        </cell>
+                        <cell>Unfortunate Lo<g ref="char:EOLhyphen"/>vers.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſinger</hi>
+                        </cell>
+                        <cell>Unnatural com<g ref="char:EOLhyphen"/>bat.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſenger</hi>
+                        </cell>
+                        <cell>Very woman.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Phil. Maſſinger</hi>
+                        </cell>
+                        <cell>Virgin Martyr.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Nabs</hi>
+                        </cell>
+                        <cell>Unfortunate mo<g ref="char:EOLhyphen"/>ther.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>R. A.</hi>
+                        </cell>
+                        <cell>Valiant Welch<g ref="char:EOLhyphen"/>man.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Fr. Quarles</hi>
+                        </cell>
+                        <cell>Virgin widow.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>VVill. Sampſon</hi>
+                        </cell>
+                        <cell>Vow-breake<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>Valiant Sect.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>W. <hi>Earl of New-caſtle.</hi>
+                        </cell>
+                        <cell>Varieties.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Deckar</hi>
+                        </cell>
+                        <cell>Untruſſing the Humorous Po<g ref="char:EOLhyphen"/>et.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sam. Brandon</hi>
+                        </cell>
+                        <cell>The Virtuous Octavia.</cell>
+                        <cell>TC</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="W" type="part">
+               <head>W</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear.</hi>
+                        </cell>
+                        <cell>WInters Tale.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Womans prize or the tamer tam'd.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <pb n="16" facs="tcp:30729:11"/>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Women pleas'd.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Wife for a month</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Fletcher</hi>
+                        </cell>
+                        <cell>Wit at ſeveral weapons.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Wild Gooſe chaſe.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Midleton &amp; Rowly</hi>
+                        </cell>
+                        <cell>Widow.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>Woman hater.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Iohn Fletcher</hi>
+                        </cell>
+                        <cell>VVit without money.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirly</hi>
+                        </cell>
+                        <cell>Witty fair one.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ia. Shirly</hi>
+                        </cell>
+                        <cell>Wedding.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Woman kild with kindneſſe.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sam. Rowly</hi>
+                        </cell>
+                        <cell>When you ſee me you know me.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Rowly</hi>
+                        </cell>
+                        <cell>Wonder a wo<g ref="char:EOLhyphen"/>man never vex't</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir W.D'Avenant</hi>
+                        </cell>
+                        <cell>Wits.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Webſter</hi>
+                        </cell>
+                        <cell>White Devil.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Decker</hi>
+                        </cell>
+                        <cell>Whore of Baby<g ref="char:EOLhyphen"/>lon.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Decker</hi>
+                        </cell>
+                        <cell>Wonder of a Kingdome.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hen. Glapthorne</hi>
+                        </cell>
+                        <cell>Wit in a Conſta<g ref="char:EOLhyphen"/>ble.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="5">
+                           <hi>Decker &amp; Webſter</hi>
+                        </cell>
+                        <cell>Weſtward hoe.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Weakeſt goes to wall.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Woman will have her will.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Wily beguil'd.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Wine, beer, ale, and tobacco.</cell>
+                        <cell>I</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ſton</hi>
+                        </cell>
+                        <cell>What you will.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Heywood</hi>
+                        </cell>
+                        <cell>Wiſe woman of Hogsdon.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Geo. Chapman</hi>
+                        </cell>
+                        <cell>Widows teares.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Middleton.</hi>
+                        </cell>
+                        <cell>World toſt at tennis.</cell>
+                        <cell>M</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Iordan</hi>
+                        </cell>
+                        <cell>The walks of Iſlington and Hogsdon.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Middleton</hi>
+                        </cell>
+                        <cell>Women beware women.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Middleton</hi>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>No Wit like a womans</item>
+                              <item>No Help like a womans</item>
+                           </list>
+                        </cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">
+                           <hi>Nat. Field</hi>
+                        </cell>
+                        <cell>A Woman's a weathercock.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>The Wit of a wo<g ref="char:EOLhyphen"/>man.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Meriton</hi>
+                        </cell>
+                        <cell>The Wandring lover.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Decker &amp; Webſter</hi>
+                        </cell>
+                        <cell>Wiats Hiſtory.</cell>
+                        <cell>H</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rowly, Decker &amp; Ford.</hi>
+                        </cell>
+                        <cell>The Witch of Edmonton.</cell>
+                        <cell>TC</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>John Lilly</hi>
+                        </cell>
+                        <cell>The Woman in the moon.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">
+                           <hi>Rich. Brome</hi>
+                        </cell>
+                        <cell>The Weeding of the Covenant Gar<g ref="char:EOLhyphen"/>den, or the Mid<g ref="char:EOLhyphen"/>dleſex Juſtice of &amp;c.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>Warning for fair women.</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>VVealth &amp; health</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="Y" type="part">
+               <head>Y</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Ja. Shirley</hi>
+                        </cell>
+                        <cell>YOung Ad<g ref="char:EOLhyphen"/>miral.</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Will. Shakeſpear</hi>
+                        </cell>
+                        <cell>Yorkſhire tragedy</cell>
+                        <cell>T</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tho. Middleton</hi>
+                        </cell>
+                        <cell>Your five Gal<g ref="char:EOLhyphen"/>lants.</cell>
+                        <cell>C</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30729:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
